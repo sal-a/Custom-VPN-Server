@@ -28,7 +28,7 @@ Starting references:
 
 ### 1b) Log in as root
 
-```ssh root@157.230.233.27```
+	```ssh root@157.230.233.27```
 	
 ### 1c) create new sal user and add to sudoers
 
