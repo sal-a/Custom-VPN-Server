@@ -16,7 +16,7 @@ Starting references:
 - Reference URL: https://www.digitalocean.com/community/tutorials/how-to-set-up-and-configure-an-openvpn-server-on-ubuntu-22-04
 
 ### 1a) Create a droplet on DigitalOcean (DO)
-- Used my s_aurigemma@yahoo.com account
+- Used my @yahoo.com spam account to sign up for DO
 - $4/month cheapest server is fine
 - Ubuntu 22.04 LTS x64, Basic, Regular SSD, $4/mo 
 	- Needed to select NYC1 datacenter to get cheapest server, not SFO
